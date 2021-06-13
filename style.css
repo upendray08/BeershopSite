@@ -82,6 +82,13 @@ a{
     font-size: 25px;
 
 }
+main a{
+    
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+}
 
 footer p{
     padding: 10px 0px;
@@ -92,6 +99,6 @@ footer p{
 }
 
 .maps{
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    
 }
